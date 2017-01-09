@@ -16,5 +16,5 @@ $file_reader->getRows(); // Get rows from the file as a PHP array
 
 ## Contributing
 I would like to improve this library by adding more file types in the future. 
-Feel free to contribute to the library development by giving file types you would want.
+Feel free to contribute to the library development by telling me file types you would want.
 
